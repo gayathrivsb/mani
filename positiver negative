@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+voidmain()
+{
+int a=8;
+if(a>=0))
+{
+printf("positive");
+}
+else
+{
+printf("negative");
+}
+}
